@@ -1,0 +1,16 @@
+
+#unique{
+    color:hsl(63, 100%, 45%);
+    font-size: 30px;
+    border-color:red;
+}
+.next{
+    color: green;
+    font-size: 30px;
+    border-color:aqua;
+}
+#body button {
+    color: red;
+    font-size: 30px;
+    border-color: green;
+}
