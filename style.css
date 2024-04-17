@@ -1,4 +1,4 @@
-
+/* this styles determine the appearance of the buttons */
 #unique{
     color:hsl(63, 100%, 45%);
     font-size: 30px;
@@ -9,8 +9,8 @@
     font-size: 30px;
     border-color:aqua;
 }
-#body button {
+/* #body button {
     color: red;
     font-size: 30px;
     border-color: green;
-}
+} */
